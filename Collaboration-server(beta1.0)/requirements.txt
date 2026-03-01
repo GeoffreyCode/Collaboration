@@ -1,0 +1,20 @@
+# Collaboration 项目依赖包
+
+# GUI
+PyQt6>=6.4.0
+
+# 网络
+requests>=2.28.0
+
+# 数据处理
+json>=2.0.0
+
+# 日志
+logging>=0.4.9.6
+
+# 系统工具
+pathlib>=1.0.1
+typing>=3.7.4.3
+
+# 时间处理
+datetime>=4.3
